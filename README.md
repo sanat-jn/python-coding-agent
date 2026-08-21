@@ -56,7 +56,7 @@ agent.run("math '5*6'")
 | `grep "pattern" file` | search text |
 | `stat path` | file stats |
 
-## How It Works (the short version)
+## How It Works 
 
 This is a Python script that uses **pattern matching** on your command to decide what to do. Think of it like a simple CLI with a menu of options.
 
