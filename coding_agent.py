@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Enhanced Python Coding Agent Framework with many capabilities"""
+"""Python Coding Agent Framework"""
 
 import sys
 import json
