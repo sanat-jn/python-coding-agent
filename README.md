@@ -1,6 +1,6 @@
-# Python Coding Agent - Demo Version
+# Python Coding Agent
 
-A fun little Python script that acts as a coding helper/agent. Good for learning, quick tasks, or playing around with code.
+A fun little Python script that acts as a coding helper/agent. 
 
 Not production-ready or state-of-the-art. Just a demo.
 
